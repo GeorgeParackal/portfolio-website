@@ -4,19 +4,8 @@ This is a dependency-free version of the portfolio. It uses only Python's built-
 
 It includes sections for About, Projects, Job Experience, Skills, Current Courses, Certificates, and Contact.
 
-## Run locally
+This is my personal portfolio website. It showcases my computer science background, software projects, team projects, job experience, skills, relevant coursework, certificates, and contact information.
 
-1. Open a terminal in this folder.
-2. Run:
+## Visit My Website
 
-   ```bash
-   python app.py
-   ```
-
-3. Open [http://localhost:8000](http://localhost:8000) in your browser.
-
-Press `Ctrl+C` in the terminal to stop the server.
-
-## Upload to GitHub
-
-Create a new GitHub repository, upload the contents of this folder, and keep `app.py`, `index.html`, `style.css`, and `assets/` together. The site can be run locally with Python, or hosted as a static site through GitHub Pages by using `index.html`.
+[Visit George Parackal's Portfolio Website](https://georgeparackal.github.io/simple-portfolio-website-george-parackal)
