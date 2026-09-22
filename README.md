@@ -8,4 +8,4 @@ This is my personal portfolio website. It showcases my computer science backgrou
 
 ## Visit My Website
 
-[Visit George Parackal's Portfolio Website](https://georgeparackal.github.io/simple-portfolio-website-george-parackal)
+[Visit George Parackal's Portfolio Website](https://georgeparackal.github.io/portfolio-website/)
